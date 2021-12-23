@@ -1,0 +1,2 @@
+# Sudoku-Validation
+: PeopleFun, located here in Dallas, is a top mobile app developer for casual games and has put out a call for a freelance programmer to help them develop a Sudoku app. Wanting to show them you have the skills necessary to work on such a project, you decide to build a Sudoku puzzle validator. The program will look at any given Sudoku puzzle and determine if any of the digits in the puzzle violate the rules of Sudoku.
